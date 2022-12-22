@@ -1,0 +1,13 @@
+{
+  "name": "schedulesms",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^0.3.0"
+  },
+  "dependencies": {
+    "croner": "^5.3.5",
+    "tls": "^0.0.1",
+    "twilio": "^3.84.0"
+  }
+}
