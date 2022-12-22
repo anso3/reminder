@@ -10,3 +10,4 @@ Messages {
 
 The app runs a cron everyday at 1:59 that sends the content of any Message that shas a send_date that is equal to the current date. It send the message to the number stored. 
 The messages are stored in a SQLite database. 
+This design is limited, but easily expandable.
