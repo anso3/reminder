@@ -1,4 +1,4 @@
-#SMS Reminder
+SMS Reminder
 
 This app uses /message as a CRUD endpoint for Messages
 Messages {
